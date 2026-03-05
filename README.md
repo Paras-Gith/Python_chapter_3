@@ -11,12 +11,12 @@ slicing, escape sequences, and string functions, along with practice exercises t
 | Chapter 3.2 slicing with skip value.py   | Shows string slicing with step/skip values.                                  |
 | Chapter 3.3 string function.py           | Explains common string functions (upper(), lower(), find(), etc.).           |
 | Chapter 3.4 escape sequence.py           | Demonstrates escape sequences `\n, \t, \\).                                  |
-| Chapter 3 practice 1.py                  | Practice exercise 1 – working with string indexing.                          |
-| Chapter 3 practice 2.py                  | Practice exercise 2 – experimenting with slicing.                            |
-| Chapter 3 practice 3.py                  | Practice exercise 3 – applying string functions.                             |
-| Chapter 3 practice 4.py                  | Practice exercise 4 – using escape sequences in text formatting.             |
-| Chapter 3 practice 5.py                  | Practice exercise 5 – reinforcing string concepts with problem‑solving tasks.|
-| LICENSE`                                 | License file for the repository.                                             |
+| Chapter 3 practice 1.py                  | Practice exercise 1                                                          |
+| Chapter 3 practice 2.py                  | Practice exercise 2                                                          |
+| Chapter 3 practice 3.py                  | Practice exercise 3                                                          |
+| Chapter 3 practice 4.py                  | Practice exercise 4                                                          |
+| Chapter 3 practice 5.py                  | Practice exercise 5                                                          |
+                                        
 
 
 # Concepts Covered
